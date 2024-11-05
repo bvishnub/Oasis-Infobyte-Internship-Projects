@@ -8,10 +8,6 @@ This repository contains the work I completed during my internship, focusing on 
 - [Project 2: EDA on Google Play Store Data](#project-2-eda-on-google-play-store-data)
 - [Project 3: Credit Card Fraud Detection](#project-3-credit-card-fraud-detection)
 - [Technologies and Libraries Used](#technologies-and-libraries-used)
-- [How to Run the Projects](#how-to-run-the-projects)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## Project 1: EDA on Retail Sales Data - Istanbul Malls
@@ -26,8 +22,7 @@ This project focuses on exploratory data analysis (EDA) of retail sales data fro
 
 **Technologies Used**: Python, Pandas, Matplotlib, Seaborn
 
-For more details, refer to the [EDA Istanbul Malls Notebook](Project-1-EDA-on-Retails-Sales-Data/EDA_Istanbul_Malls.ipynb).
-
+For more details, refer to the [EDA Istanbul Malls Notebook]
 ---
 
 ## Project 2: EDA on Google Play Store Data
@@ -42,7 +37,7 @@ This project performs exploratory data analysis on Google Play Store data to und
 
 **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Google Colab
 
-For more details, refer to the [Play Store App Review Analysis Notebook](Project-2-EDA-on-Google-Play-Store-Data/Play_Store_EDA.ipynb).
+For more details, refer to the [Play Store App Review Analysis Notebook].
 
 ---
 
@@ -58,7 +53,7 @@ This project focuses on building a machine learning model for detecting fraudule
 
 **Technologies Used**: Python, Pandas, Scikit-learn, imbalanced-learn, Matplotlib, Seaborn
 
-For more details, refer to the [Credit Card Fraud Detection Notebook](Project-3-Credit-Card-Fraud-Detection.ipynb).
+For more details, refer to the [Credit Card Fraud Detection Notebook].
 
 ---
 
